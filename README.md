@@ -26,7 +26,7 @@ It serves as my **learning journal + code repository** where I consistently prac
 ## 📂 Repository Structure
 
 📁 Python  
-Basic Python concepts and practice programs
+Basic Python concepts and practice programs 
 
 📁 Numpy  
 Numerical computing, arrays, matrix operations
